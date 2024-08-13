@@ -9,6 +9,9 @@
  
 <div align="center">
     
-[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://discord.gg/bJajFP3kCX)
+[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://discord.gg/JHYHqMUsYT)
 
 </div>
+
+## Screenshots
+![image](https://i.ytimg.com/vi/VE3OKRbXoHg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwdUs8p7X_plZuirrFy7TVGsy7Jw)
