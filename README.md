@@ -15,7 +15,7 @@
 
 ## Information
 - This is **Minecraft Cheat Client** for **1.16.5** Bypass Servers: **HolyWorld**, **PlayMine**, **ReallyWorld**...
-- 
+
 ## Requires these mods:
 - [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
